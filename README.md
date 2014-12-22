@@ -36,7 +36,6 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
-A BRIEFE AND FAMILIAR EPISTLE SHEVVING HIS MAIESTIES MOST LAWFVLL, HONOVRABLE AND IVST TITLE TO ALL
 1. TO THE RIGHT WORSHIPFƲLL HIS EƲER good friend Marmaduke Darell Eſquier, Clarke Comptrouler of the late Queenes Maieſties houſhold, and victuler of her Nauie Royall, &c. Robert Fletcher, Yeoman Purueyor of Cariages for remooues of our ſayde late Soueraigne Lady the Queene, wiſheth a long life with continuance of thoſe vertues which God hath endued him vvith.
 
 #####Body#####
@@ -83,53 +82,47 @@ There are 8 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__closer__|2||
-|3.|__desc__|8||
-|4.|__div__|6| @__type__ (6) : title_page (1), dedication (1), letter (1), poem (2), prayer (1)|
-|5.|__figure__|1||
-|6.|__front__|1||
-|7.|__g__|43| @__ref__ (43) : char:EOLhyphen (41), char:V (2)|
-|8.|__gap__|8| @__reason__ (8) : illegible (8)  •  @__resp__ (8) : #OXF (8)  •  @__extent__ (8) : 1 letter (5), 2 letters (2), 1 word (1)|
-|9.|__head__|5||
-|10.|__hi__|79||
-|11.|__l__|102||
-|12.|__lg__|8||
-|13.|__note__|3| @__place__ (3) : margin (3)|
-|14.|__p__|10||
-|15.|__pb__|16| @__facs__ (16) : tcp:2595:1 (2), tcp:2595:2 (2), tcp:2595:3 (2), tcp:2595:4 (2), tcp:2595:5 (2), tcp:2595:6 (2), tcp:2595:7 (2), tcp:2595:8 (2)|
-|16.|__seg__|4| @__rend__ (4) : decorInit (4)|
-|17.|__signed__|1||
-|18.|__trailer__|3||
+|1.|__closer__|2||
+|2.|__desc__|8||
+|3.|__div__|6| @__type__ (6) : title_page (1), dedication (1), letter (1), poem (2), prayer (1)|
+|4.|__figure__|1||
+|5.|__g__|43| @__ref__ (43) : char:EOLhyphen (41), char:V (2)|
+|6.|__gap__|8| @__reason__ (8) : illegible (8)  •  @__resp__ (8) : #OXF (8)  •  @__extent__ (8) : 1 letter (5), 2 letters (2), 1 word (1)|
+|7.|__head__|5||
+|8.|__hi__|79||
+|9.|__l__|102||
+|10.|__lg__|8||
+|11.|__note__|3| @__place__ (3) : margin (3)|
+|12.|__p__|10||
+|13.|__pb__|16| @__facs__ (16) : tcp:2595:1 (2), tcp:2595:2 (2), tcp:2595:3 (2), tcp:2595:4 (2), tcp:2595:5 (2), tcp:2595:6 (2), tcp:2595:7 (2), tcp:2595:8 (2)|
+|14.|__seg__|4| @__rend__ (4) : decorInit (4)|
+|15.|__signed__|1||
+|16.|__trailer__|3||
